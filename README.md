@@ -2,7 +2,6 @@
 - 👀 I'm interested in software development, web technologies, and innovative solutions
 - 🌱 I'm currently learning advanced AI and machine learning techniques
 - 💞 I'm looking to collaborate on open-source projects and cutting-edge tech initiatives
-- 📫 How to reach me: [Your preferred contact method, e.g., email or LinkedIn profile]
 - 😄 Pronouns: He/Him
 - ⚡️ Fun fact: With 8+ years of experience, I've debugged more lines of code than I've had cups of coffee!
 
